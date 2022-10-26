@@ -3,7 +3,7 @@ simple-website-template-folder-style-v1.0
 
 <br>
 
-* [This is a link to the website above created by this repository using GitHub Pages.](https://boxbot6.github.io/simple-website-template-folder-style-v1.0/)
+* [This is a link to the website which is created by this repository using GitHub Pages.](https://boxbot6.github.io/simple-website-template-folder-style-v1.0/)
 
 <br>
 
